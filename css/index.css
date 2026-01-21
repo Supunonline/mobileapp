@@ -76,7 +76,7 @@ main > p {
     font: 1.2em bold;
 }
 
-.container01-04, .item01-1{
+.item02, .item01-1{
     display:none;
 }
 
@@ -181,4 +181,5 @@ footer> p {
     }
 
 }
+
 
